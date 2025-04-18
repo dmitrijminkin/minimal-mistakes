@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "aqua" # "air", "mint", "contrast", "dark", "dirt", "neon", "default", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-de"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Dmitrij Minkin"
+description              : "Degree Economist & Data Analyst"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
