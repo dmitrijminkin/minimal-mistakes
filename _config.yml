@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dmitrij Minkin"
+name                     : "Dmitrij Minkin" <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ghandima_test.png" alt="">
 description              : "Degree Economist & Data Analyst"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
