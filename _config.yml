@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "aqua" # "air", "mint", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-de"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Personal Website"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dmitrij Minkin"
-description              : "Degree Economist & Data Analyst"
+description              : "D.M. GitHub site"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Dmitrij Minkin"
   avatar           : /assets/images/ghandima_test.png
-  bio              : "This is my GitHub testversion Website"
+  bio              : "Degree Economist & Data Analyst"
   location         : "Germany, France, Spain"
-  email            :
+  email            : "datenberatung@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
